@@ -1,2 +1,2 @@
-# CODSOFT
-CodSoft Internship Tasks
+# Java Projects
+Java Projects
